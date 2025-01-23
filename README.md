@@ -13,7 +13,6 @@
 This tool is connected to our server, making the checking process completely free. However, you will need to buy proxies from us, which are connected to our backend. The minimum proxy purchase is for 50k proxies, allowing you to check 50k emails, as each proxy is used for one email.
 
 ## Proxy Pricing:
-- **50k Proxy** = $50
 - **100k Proxy** = $90
 - **200k Proxy** = $160
 - **1m Proxy** = $500
